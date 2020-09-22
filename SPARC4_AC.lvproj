@@ -87,7 +87,6 @@
 				<Item Name="GetNumberNewImages.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/GetNumberNewImages.vi"/>
 				<Item Name="GetHSSpeed.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/GetHSSpeed.vi"/>
 				<Item Name="GetSensitivity.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/GetSensitivity.vi"/>
-				<Item Name="gfitsio-write-image-subset-i16-3d.vi" Type="VI" URL="/&lt;userlib&gt;/gfitsio/gfitsio-write-image-subset-i16-3d.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
